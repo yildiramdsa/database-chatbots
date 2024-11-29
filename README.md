@@ -1,5 +1,7 @@
 # Database Chatbots
 
+![Database Chatbots](https://github.com/yildiramdsa/database_chatbots/blob/main/images/database_chatbots.png)
+
 This project aims to build AI agents that interact with databases using natural language. The agents simplify the querying and extracting insights from various datasets, enhancing the efficiency of data-driven decision-making.
 
 ![Filename and Description](https://github.com/yildiramdsa/database_chatbots/blob/main/images/database-chatbots-1.jpeg)
